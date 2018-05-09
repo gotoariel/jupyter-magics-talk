@@ -1,0 +1,6 @@
+name: jupyter-magic
+dependencies:
+  - python=3.6
+  - jupyterlab
+  - pip:
+    - git+https://github.com/thedataincubator/ihtml.git@master
